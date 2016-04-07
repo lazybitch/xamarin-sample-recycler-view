@@ -1,0 +1,13 @@
+_ReSharper.*/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userprefs
+*.suo
+.DS_Store
+[Pp]ackages/
+[Cc]omponents/
+[Bb]uilds/
+*.userprefs
+Resource.designer.cs
+Xamarin Android/.vs/config/applicationhost.config
